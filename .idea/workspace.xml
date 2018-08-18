@@ -3,112 +3,142 @@
   <component name="ChangeListManager">
     <list default="true" id="94fccca6-7217-4213-b1b7-b7a058db3f27" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/assets/css/noscript.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/blogger.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/flow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/elements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/generic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/images/pic15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flow/images/pic15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/assets/css/images/arrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/assets/css/images/arrow.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/assets/css/images/close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/assets/css/images/close.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/assets/css/images/spinner.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/assets/css/images/spinner.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/assets/css/noscript.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/assets/js/jquery.poptrox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/assets/js/jquery.poptrox.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/bloom2.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/bloom2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/fulls/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bloom2/images/thumbs/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/bonanza.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/bonanza.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/fulls/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/bonanza/images/thumbs/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/das2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/das2018.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/fulls/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/fulls/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/galleries/das2018/images/thumbs/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/das2018/images/thumbs/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/bloom2.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bloom2/bloom2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31239460_636800520006085_3680803813238767616_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31242784_636800500006087_3653407157455421440_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31250569_636800883339382_3066326991138455552_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31252840_636800246672779_5874803211184898048_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31252842_636801146672689_7412873691857420288_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31252907_636801160006021_5842463962871889920_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31265431_636801290006008_1735236915810009088_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31265465_636800476672756_3391827087735128064_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31265491_636800203339450_9214292630609854464_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31265595_636801656672638_2167682896372957184_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31265656_636800776672726_2916908072502820864_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31271231_636800856672718_6513162482402459648_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31271321_636800733339397_8040483587646029824_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31277599_636801226672681_5004935925583577088_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31277642_636800376672766_7658589780178894848_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31279782_636800353339435_5111835969363902464_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31281406_636800600006077_1160717467249541120_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31286719_636800996672704_1642677849435406336_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31289179_636800760006061_284571029655781376_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31290703_636801073339363_5738605468901703680_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31290770_636800503339420_1315837336495325184_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31292836_636800226672781_5395774612329988096_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31301015_636800383339432_3608539584029261824_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31301523_636800750006062_8237653682095652864_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31301714_636800623339408_6159398142333681664_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31301727_636800086672795_2670560950406348800_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31301761_636801593339311_8408379899127005184_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31301882_636800063339464_834617745973706752_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31301982_636801276672676_8948188740556161024_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31306823_636800640006073_7994221081856573440_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31306997_636800090006128_1256653327106572288_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31317728_636800900006047_5022246894349320192_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31317797_636801686672635_650428434261999616_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31318015_636800876672716_8429978314701012992_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31349670_636800613339409_9046813730976825344_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31353924_636800106672793_8514624466473451520_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31357791_636800210006116_2693338888553889792_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31363288_636801016672702_6295558372372512768_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31363349_636800360006101_8498943059839418368_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31378770_636801266672677_8333715513343475712_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31396039_636801126672691_1829000454223167488_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bloom2/images/thumbs/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/bonanza.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/bonanza.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/09.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37154278_698040740548729_3098925784325160960_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37178550_698042080548595_4360617541861638144_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37183222_698041037215366_6853128505593430016_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37201581_698041387215331_168546254840659968_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37202741_698040747215395_2638281505217970176_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37204393_698040913882045_5668347504815505408_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37214739_698041020548701_8772599143076986880_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37219766_698041357215334_9007463214841069568_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37224064_698041257215344_4182162269188128768_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37225848_698040897215380_8807315041608007680_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37225856_698041070548696_3214779743995953152_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37226679_698041987215271_8597616549030789120_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37227481_698041487215321_2958260876622168064_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37228691_698041230548680_5494973041014210560_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37230138_698041410548662_7608392435806240768_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37238912_698040607215409_6114939819161288704_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37241364_698041213882015_2408386942543593472_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37243116_698041423881994_2526442880407437312_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37243226_698041570548646_5232117404661710848_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37245618_698041837215286_4127917807197224960_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37246819_698041877215282_4369275358411751424_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37251580_698040590548744_80148659588562944_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37251596_698040713882065_3610164322912698368_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37269398_698040770548726_6531352360390754304_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37271053_698041053882031_1409901694417895424_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37272477_698041920548611_1795700035178987520_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37278119_698041780548625_1057232515175022592_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37281806_698042197215250_2612982773454995456_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37284606_698040883882048_822860831346655232_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37286192_698041190548684_9041424384538968064_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37290257_698041680548635_693652409603325952_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37303502_698041737215296_8040254760378433536_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37303524_698041530548650_3231409140106526720_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37315289_698041593881977_6109697768626847744_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37318035_698040633882073_1006755164704473088_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37323953_698042157215254_7607088659828834304_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37334194_698041703881966_6298979511392272384_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37336467_698042117215258_8804925502193139712_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37342160_698042030548600_1213877570257289216_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37342711_698040577215412_1381853925887442944_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37349018_698041947215275_3429047970106966016_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/fulls/37366060_698040940548709_2045446550875799552_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pics/bonanza/images/thumbs/12.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -162,17 +192,18 @@
     <session id="-626047486">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="9" />
-          <entry key="HTML" value="10" />
-          <entry key="Image" value="1" />
+          <entry key="CSS" value="10" />
+          <entry key="HTML" value="13" />
+          <entry key="Image" value="2" />
           <entry key="JavaScript" value="10" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
@@ -180,8 +211,9 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="9" />
-          <entry key="html" value="10" />
+          <entry key="css" value="10" />
+          <entry key="html" value="13" />
+          <entry key="jpg" value="1" />
           <entry key="js" value="10" />
           <entry key="png" value="1" />
           <entry key="txt" value="3" />
@@ -189,52 +221,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="108" />
-          <entry key="html" value="2566" />
+          <entry key="css" value="124" />
+          <entry key="html" value="2886" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="108" />
-          <entry key="HTML" value="2566" />
+          <entry key="CSS" value="124" />
+          <entry key="HTML" value="2886" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="53" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/flow/flow.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="145" selection-start-line="25" selection-start-column="106" selection-end-line="25" selection-end-column="145" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/blog/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="42" column="86" selection-start-line="42" selection-start-column="86" selection-end-line="42" selection-end-column="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/blog/assets/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="3574" selection-start-line="3574" selection-end-line="3574" />
+            <state relative-caret-position="299">
+              <caret line="365" column="28" selection-start-line="365" selection-start-column="28" selection-end-line="365" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -242,17 +247,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/pics/bloom2/bloom2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/pics/das2018/das2018.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="556">
+              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -260,17 +256,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/pics/bonanza/bonanza.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="356">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/pics/assets/css/main.css">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8312">
-              <caret line="1485" column="17" selection-start-line="1485" selection-start-column="17" selection-end-line="1485" selection-end-column="17" />
+            <state relative-caret-position="550">
+              <caret line="1149" lean-forward="true" selection-start-line="1149" selection-end-line="1149" />
             </state>
           </provider>
         </entry>
@@ -291,6 +287,7 @@
       <find>.symbol</find>
       <find>logo</find>
       <find>title</find>
+      <find>bg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -306,17 +303,17 @@
         <option value="$PROJECT_DIR$/pages/galleries/bloom2/bloom2.html" />
         <option value="$PROJECT_DIR$/pages/galleries/assets/css/main.css" />
         <option value="$PROJECT_DIR$/pages/blog/blogger.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/flow/flow.html" />
-        <option value="$PROJECT_DIR$/pages/pics/bonanza/bonanza.html" />
         <option value="$PROJECT_DIR$/pages/pics/das2018/das2018.html" />
-        <option value="$PROJECT_DIR$/pages/pics/bloom2/bloom2.html" />
         <option value="$PROJECT_DIR$/pages/blog/elements.html" />
         <option value="$PROJECT_DIR$/pages/blog/generic.html" />
         <option value="$PROJECT_DIR$/pages/flow/assets/css/main.css" />
         <option value="$PROJECT_DIR$/pages/blog/assets/css/main.css" />
         <option value="$PROJECT_DIR$/pages/blog/blog.html" />
+        <option value="$PROJECT_DIR$/pages/pics/bloom2/bloom2.html" />
+        <option value="$PROJECT_DIR$/pages/pics/bonanza/bonanza.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -327,8 +324,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1178" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -336,92 +334,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
+              <item name="drewskilabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drewskilabs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="drewskilabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drewskilabs" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="drewskilabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drewskilabs" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="flow" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="flow" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="flow" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="pics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="pics" type="462c0819:PsiDirectoryNode" />
-              <item name="bloom2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="pics" type="462c0819:PsiDirectoryNode" />
-              <item name="bonanza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drewkskilabs-main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drewkskilabs-main" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="pics" type="462c0819:PsiDirectoryNode" />
-              <item name="das2018" type="462c0819:PsiDirectoryNode" />
+              <item name="drewskilabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drewskilabs" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -477,17 +417,17 @@
       <workItem from="1534348956105" duration="10816000" />
       <workItem from="1534454014091" duration="4882000" />
       <workItem from="1534461041523" duration="180000" />
+      <workItem from="1534546392090" duration="1147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22678000" />
+    <option name="totallyTimeSpent" value="25594000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1482821" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30805686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -499,7 +439,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2642857" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3222621" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -610,35 +550,7 @@
     <entry file="file://$PROJECT_DIR$/images/intro.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34629">
-          <caret line="1649" column="23" selection-start-line="1649" selection-start-column="23" selection-end-line="1649" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/pics/bonanza/bonanza.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/pics/das2018/das2018.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/pics/bloom2/bloom2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
@@ -684,6 +596,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
           <caret line="42" column="86" selection-start-line="42" selection-start-column="86" selection-end-line="42" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/pics/bloom2/images/fulls/31239460_636800520006085_3680803813238767616_o.jpg" />
+    <entry file="file://$PROJECT_DIR$/pages/pics/bloom2/bloom2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/pics/bonanza/bonanza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="1149" lean-forward="true" selection-start-line="1149" selection-end-line="1149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="365" column="28" selection-start-line="365" selection-start-column="28" selection-end-line="365" selection-end-column="28" />
         </state>
       </provider>
     </entry>
